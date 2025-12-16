@@ -42,7 +42,7 @@ I'm **`Devika`**, a curious learner who enjoys coding and exploring new technolo
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[House Price Prediction](https://github.com/)**    | Short Description |
+| **[House Price Prediction](https://github.com/devikabaiju/House-Price-Prediction)**    | End-to-end house price prediction using Random Forest with EDA, preprocessing, and model evaluation |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
