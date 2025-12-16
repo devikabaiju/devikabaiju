@@ -42,7 +42,7 @@ I'm **`Devika`**, a curious learner who enjoys coding and exploring new technolo
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[House Price Prediction](https://github.com/)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
