@@ -44,6 +44,6 @@ I'm **`Devika`**, a curious learner who enjoys coding and exploring new technolo
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **[House Price Prediction](https://github.com/devikabaiju/House-Price-Prediction)**  | End-to-end house price prediction using Random Forest with EDA, preprocessing, and model evaluation. |
 | **[Employee Attrition](https://github.com/devikabaiju/Employee-Attrition-Prediction-)**  | End-to-end house price prediction using Logistic Regression with EDA, data preprocessing, and model evaluation |
-| **[MNIST Digit Classifier with ANN](https://github.com/)**  | End-to-end MNIST digit classification using ANN with data preprocessing, model training, evaluation, and custom image prediction. | 
+| **[MNIST Digit Classifier](https://github.com/)**  | End-to-end MNIST digit classification using ANN with data preprocessing, model training, evaluation, and custom image prediction. | 
 
 ---
